@@ -1,4 +1,4 @@
-# 📚 Book Finder App
+# 📚 Book Finder
 
 A React-based book search application that uses the **OpenLibrary API** to search for books, show book covers, filter results, and display suggestions based on user search history.
 
